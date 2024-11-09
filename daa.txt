@@ -25,7 +25,9 @@ Fibonacci sequence:
 0
 1
 1
-2Experiment 02
+2
+
+/////////////////////////Experiment 02
 Code:
 # Define a class for the Huffman Tree Node
 class Node:
@@ -86,7 +88,9 @@ c -> 001
 d -> 010
 e -> 011
 f -> 10
-g -> 11Experiment 03
+g -> 11
+
+////////////////////////////////////////////Experiment 03
 Code:
 def fractional_knapsack(value, weight, capacity):
 # Calculate the value-to-weight ratio for each item
@@ -129,7 +133,9 @@ Enter the values of the 3 item(s) in order: 24 15 25
 Enter the positive weights of the 3 item(s) in order: 15 10 18
 Enter maximum weight: 20
 The maximum value of items that can be carried: 31.5
-The fractions in which the items should be taken: [1, 0.5, 0]Experiment 04
+The fractions in which the items should be taken: [1, 0.5, 0]
+
+////////////////////////////////////////////////Experiment 04
 Code:
 class Item:
 def __init__(self, value, weight):
@@ -196,7 +202,9 @@ Enter number of items: 3
 Enter the values of the items: 60 100 120
 Enter the weights of the items: 10 20 30
 Enter the capacity of the knapsack: 50
-The maximum value that can be carried is: 220Experiment 05
+The maximum value that can be carried is: 220
+
+///////////////////////////////////////////////Experiment 05
 Code:
 #include <bits/stdc++.h>
 #define N 4
